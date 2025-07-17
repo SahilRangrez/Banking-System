@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: db
+    database: db
+    schema: myschema
+    tables:
+      - name: table1
+      - name: table2
